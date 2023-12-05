@@ -14,7 +14,7 @@ jobs:
       url: https://test.pypi.org/p/hi
 
     permissions:
-      id-token: aS5GSqyCYC#@MV9
+      id-token: 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
 
     steps:
     - name: Download all the dists
