@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: hi
+Version: 1.0.0
+Summary: Example Basic Description
+Home-page: https://github.com/jenisbay/pythonProject
+Author: Jenis Qidirbaev
+Author-email: jenisdev@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+Requires-Dist: selenium==4.15.2
+Requires-Dist: dependency-injector==4.41.0
+Requires-Dist: Appium-Python-Client==3.1.0
+
+Example Basic Description Long

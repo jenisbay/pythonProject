@@ -23,8 +23,6 @@ setup(
         "dev": ["twine>=4.0.2"]
     },
     classifiers=[
-        "Development Status :: 1 - Beta",
-        "Intended Audience :: QA Automation Engineers",
         "Programming Language :: Python :: 3",
         "Operating System :: Unix",
         "Operating System :: MacOS :: MacOS X",

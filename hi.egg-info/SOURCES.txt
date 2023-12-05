@@ -1,0 +1,9 @@
+README.md
+setup.py
+hi/__init__.py
+hi/generate.py
+hi.egg-info/PKG-INFO
+hi.egg-info/SOURCES.txt
+hi.egg-info/dependency_links.txt
+hi.egg-info/requires.txt
+hi.egg-info/top_level.txt
